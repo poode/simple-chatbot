@@ -1,0 +1,30 @@
+{
+    "en": {
+        "General": {
+            "What's your name?": "I am a bot.",
+            "How are you?": "I'm just a bot, but thanks for asking!"
+        },
+        "Support": {
+            "How can I contact support?": "You can reach support at support@example.com.",
+            "Where can I find your phone number?": "You can find our phone number on our website."
+        },
+        "Products": {
+            "Tell me about your products.": "We offer a range of high-quality products for various needs.",
+            "Can you recommend a product?": "Sure, could you please provide more details about your requirements?"
+        }
+    },
+    "ar": {
+        "عام": {
+            "ما اسمك؟": "أنا روبوت.",
+            "كيف حالك؟": "أنا مجرد روبوت، ولكن شكرًا على السؤال!"
+        },
+        "الدعم": {
+            "كيف يمكنني التواصل مع الدعم؟": "يمكنك الوصول إلى الدعم على البريد الإلكتروني support@example.com.",
+            "أين يمكنني العثور على رقم الهاتف؟": "يمكنك العثور على رقم الهاتف على موقعنا على الويب."
+        },
+        "المنتجات": {
+            "قدم لي عن منتجاتك.": "نحن نقدم مجموعة من المنتجات عالية الجودة لاحتياجات متنوعة.",
+            "هل يمكنك أن توصي بمنتج؟": "بالتأكيد، هل يمكنك تقديم مزيد من التفاصيل حول احتياجاتك؟"
+        }
+    }
+}
